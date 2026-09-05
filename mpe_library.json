@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "title": "Explore What’s Possible",
+  "subtitle": "Creative photography ideas using MobilePhoton apps.",
+  "apps": [
+    {
+      "id": "motion-procam",
+      "name": "Motion ProCam",
+      "icon": "",
+      "deepLink": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.motioncamera"
+    },
+    {
+      "id": "lighttrails",
+      "name": "LightTrails",
+      "icon": "",
+      "deepLink": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.lighttrails"
+    },
+    {
+      "id": "timelab",
+      "name": "TimeLab",
+      "icon": "",
+      "deepLink": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.timelab"
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "star-trails-01",
+      "title": "Star Trails",
+      "shortDescription": "Capture and combine a sequence of photos into smooth star trails.",
+      "cardImage": "",
+      "detailImage": "",
+      "appIds": ["motion-procam", "lighttrails"],
+      "content": [
+        {
+          "heading": "Capture the frames",
+          "body": "Use Motion ProCam to capture a steady sequence of photos over time."
+        },
+        {
+          "heading": "Create the trail",
+          "body": "Open the sequence in LightTrails and combine the frames into one photograph."
+        }
+      ],
+      "links": [
+        {
+          "title": "Try Motion ProCam",
+          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.motioncamera",
+          "appId": "motion-procam"
+        },
+        {
+          "title": "Try LightTrails",
+          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.lighttrails",
+          "appId": "lighttrails"
+        }
+      ]
+    },
+    {
+      "id": "light-trails-01",
+      "title": "Light Trails",
+      "shortDescription": "Turn moving lights at night into bright flowing lines.",
+      "cardImage": "",
+      "detailImage": "",
+      "appIds": ["motion-procam", "lighttrails"],
+      "content": [
+        {
+          "heading": "Find moving light",
+          "body": "Traffic, bicycles, and handheld lights work well against a dark background."
+        },
+        {
+          "heading": "Build the final image",
+          "body": "Capture a sequence and combine the brightest parts of each frame."
+        }
+      ],
+      "links": [
+        {
+          "title": "Try Motion ProCam",
+          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.motioncamera",
+          "appId": "motion-procam"
+        },
+        {
+          "title": "Try LightTrails",
+          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.lighttrails",
+          "appId": "lighttrails"
+        }
+      ]
+    },
+    {
+      "id": "motion-blur-01",
+      "title": "Motion Blur",
+      "shortDescription": "Use intentional movement to create soft and expressive photographs.",
+      "cardImage": "",
+      "detailImage": "",
+      "appIds": ["motion-procam"],
+      "content": [
+        {
+          "heading": "Choose the movement",
+          "body": "Photograph moving water, people, traffic, or move the camera during capture."
+        },
+        {
+          "heading": "Adjust the result",
+          "body": "Try different exposure times until the moving subject has the texture you want."
+        }
+      ],
+      "links": [
+        {
+          "title": "Try Motion ProCam",
+          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.motioncamera",
+          "appId": "motion-procam"
+        }
+      ]
+    }
+  ]
+}
