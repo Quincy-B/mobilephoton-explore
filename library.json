@@ -6,21 +6,21 @@
     {
       "id": "motion-procam",
       "name": "Motion ProCam",
-      "icon": "",
+      "icon": "images/apps/MotionProCam.png",
       "deepLink": "",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.motioncamera"
     },
     {
       "id": "lighttrails",
       "name": "LightTrails",
-      "icon": "",
+      "icon": "images/apps/LightTrails.png",
       "deepLink": "",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.lighttrails"
     },
     {
       "id": "timelab",
       "name": "TimeLab",
-      "icon": "",
+      "icon": "images/apps/TimeLab.png",
       "deepLink": "",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.timelab"
     }
