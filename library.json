@@ -6,42 +6,42 @@
     {
       "id": "motion-procam",
       "name": "Motion ProCam",
-      "icon": "images/apps/MotionProCam.png",
+      "icon": "content/images/apps/MotionProCam.png",
       "deepLink": "",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.motioncamera"
     },
     {
       "id": "lighttrails",
       "name": "Light Trails",
-      "icon": "images/apps/LightTrails.png",
+      "icon": "content/images/apps/LightTrails.png",
       "deepLink": "",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.lighttrails"
     },
     {
       "id": "timelab",
       "name": "TimeLab",
-      "icon": "images/apps/TimeLab.png",
+      "icon": "content/images/apps/TimeLab.png",
       "deepLink": "",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.timelab"
     },
     {
       "id": "intervalometer",
       "name": "Intervalometer",
-      "icon": "images/apps/Intervalometer.png",
+      "icon": "content/images/apps/Intervalometer.png",
       "deepLink": "",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.intervalometer"
     },
     {
       "id": "compose",
       "name": "Compose",
-      "icon": "images/apps/Compose.png",
+      "icon": "content/images/apps/Compose.png",
       "deepLink": "",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.motionstacks"
     },
     {
       "id": "lightroom",
       "name": "Lightroom",
-      "icon": "images/apps/Lightroom.png",
+      "icon": "content/images/apps/Lightroom.png",
       "deepLink": "",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile"
     }
@@ -80,7 +80,7 @@
           "description": "Render the frames into a timelapse video"
         }
       ],
-      "videoUrl": "videos/scenarios/VID_timelab_20260912111020.mp4"
+      "videoUrl": "content/videos/scenarios/VID_timelab_20260912111020.mp4"
     },
     {
       "id": "professional-grade-star-trails-with-creative-effects",
@@ -88,12 +88,12 @@
       "shortDescription": "Create detailed RAW star trails with fading tails and continuous paths.",
       "fullDescription": "Pair Intervalometer with a compatible camera app to capture a long sequence of RAW night-sky photos. Import the sequence into Light Trails to combine the frames, apply Comet Mode for creative fading trails, close unwanted gaps, and export the final result in DNG format for further editing.",
       "images": [
-        "images/scenarios/IMG_20260831_221122_398_STACK.JPG",
-        "images/scenarios/IMG_20260831_224054_654_STACK.JPG",
-        "images/scenarios/Screenshot_20260831_225449_Light Trails.jpg"
+        "content/images/scenarios/IMG_20260831_221122_398_STACK.JPG",
+        "content/images/scenarios/IMG_20260831_224054_654_STACK.JPG",
+        "content/images/scenarios/Screenshot_20260831_225449_Light Trails.jpg"
       ],
-      "cardImage": "images/scenarios/IMG_20260831_221122_398_STACK.JPG",
-      "detailImage": "images/scenarios/IMG_20260831_221122_398_STACK.JPG",
+      "cardImage": "content/images/scenarios/IMG_20260831_221122_398_STACK.JPG",
+      "detailImage": "content/images/scenarios/IMG_20260831_221122_398_STACK.JPG",
       "appIds": [
         "intervalometer",
         "lighttrails"
@@ -119,11 +119,11 @@
       "shortDescription": "Create cleaner, lower-noise astrophotography images through RAW stacking.",
       "fullDescription": "Pair Intervalometer with a compatible camera app to capture multiple RAW photos of the night sky with consistent settings. Import them into Compose, which aligns the stars and stacks the frames to reduce noise while preserving detail, producing a cleaner astrophotography image.",
       "images": [
-        "images/scenarios/stacked_milky_way.jpg",
-        "images/scenarios/compose_milky_way.JPG"
+        "content/images/scenarios/stacked_milky_way.jpg",
+        "content/images/scenarios/compose_milky_way.JPG"
       ],
-      "cardImage": "images/scenarios/stacked_milky_way.jpg",
-      "detailImage": "images/scenarios/stacked_milky_way.jpg",
+      "cardImage": "content/images/scenarios/stacked_milky_way.jpg",
+      "detailImage": "content/images/scenarios/stacked_milky_way.jpg",
       "appIds": [
         "intervalometer",
         "compose"
@@ -149,11 +149,11 @@
       "shortDescription": "Capture high-quality RAW long exposures without a tripod.",
       "fullDescription": "Use Motion ProCam to capture handheld long-exposure photographs in RAW. Automatic alignment and stabilization compensate for small hand movements, making it possible to photograph smooth water, moving clouds, light trails, and other motion effects while preserving editing flexibility.",
       "images": [
-        "images/scenarios/IMG_0466.JPG",
-        "images/scenarios/IMG_2s_20220103091425.jpg"
+        "content/images/scenarios/IMG_0466.JPG",
+        "content/images/scenarios/IMG_2s_20220103091425.jpg"
       ],
-      "cardImage": "images/scenarios/IMG_0466.JPG",
-      "detailImage": "images/scenarios/IMG_0466.JPG",
+      "cardImage": "content/images/scenarios/IMG_0466.JPG",
+      "detailImage": "content/images/scenarios/IMG_0466.JPG",
       "appIds": [
         "motion-procam"
       ],
@@ -172,10 +172,10 @@
       "shortDescription": "Create smoother, more cinematic timelapses with natural motion blur.",
       "fullDescription": "Pair Intervalometer with a compatible camera app to capture a controlled sequence of photographs. Import the frames into TimeLab and apply motion-blur rendering to reduce the harsh, jittery appearance of conventional timelapses and create smoother movement.",
       "images": [
-        "images/scenarios/IMG_3126.JPG"
+        "content/images/scenarios/IMG_3126.JPG"
       ],
-      "cardImage": "images/scenarios/IMG_3126.JPG",
-      "detailImage": "images/scenarios/IMG_3126.JPG",
+      "cardImage": "content/images/scenarios/IMG_3126.JPG",
+      "detailImage": "content/images/scenarios/IMG_3126.JPG",
       "appIds": [
         "intervalometer",
         "timelab"

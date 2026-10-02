@@ -1,14 +1,10 @@
 # This GitHub repository is intentionally content-only.
 # Ignore the Android library and all local/generated files by default, then
-# explicitly allow only the remote content and its publishing configuration.
+# explicitly allow only the remote content.
 *
 
 !.gitignore
 !library.json
-
-!.github/
-!.github/workflows/
-!.github/workflows/publish-content.yml
 
 !content/
 !content/**
