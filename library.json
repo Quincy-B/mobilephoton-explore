@@ -12,7 +12,7 @@
     },
     {
       "id": "lighttrails",
-      "name": "LightTrails",
+      "name": "Light Trails",
       "icon": "images/apps/LightTrails.png",
       "deepLink": "",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.lighttrails"
@@ -23,91 +23,175 @@
       "icon": "images/apps/TimeLab.png",
       "deepLink": "",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.timelab"
+    },
+    {
+      "id": "intervalometer",
+      "name": "Intervalometer",
+      "icon": "images/apps/Intervalometer.png",
+      "deepLink": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.intervalometer"
+    },
+    {
+      "id": "compose",
+      "name": "Compose",
+      "icon": "images/apps/Compose.png",
+      "deepLink": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobilephoton.motionstacks"
+    },
+    {
+      "id": "lightroom",
+      "name": "Lightroom",
+      "icon": "images/apps/Lightroom.png",
+      "deepLink": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile"
     }
   ],
   "scenarios": [
     {
-      "id": "star-trails-01",
-      "title": "Star Trails",
-      "shortDescription": "Capture and combine a sequence of photos into smooth star trails.",
+      "id": "professional-grade-milky-way-timelapse",
+      "title": "Professional-Grade Milky Way Timelapse",
+      "shortDescription": "Create a detailed Milky Way timelapse from individually edited RAW photos.",
+      "fullDescription": "Pair Intervalometer with a compatible camera app to capture a sequence of RAW night-sky photos at consistent intervals. Edit one frame in Lightroom, synchronize the adjustments across the entire sequence, and export the edited frames. Import them into TimeLab to render a high-quality Milky Way timelapse video.",
+      "images": [],
       "cardImage": "",
       "detailImage": "",
-      "appIds": ["motion-procam", "lighttrails"],
-      "content": [
-        {
-          "heading": "Capture the frames",
-          "body": "Use Motion ProCam to capture a steady sequence of photos over time."
-        },
-        {
-          "heading": "Create the trail",
-          "body": "Open the sequence in LightTrails and combine the frames into one photograph."
-        }
+      "appIds": [
+        "intervalometer",
+        "lightroom",
+        "timelab"
       ],
       "links": [
         {
-          "title": "Try Motion ProCam",
-          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.motioncamera",
-          "appId": "motion-procam"
+          "title": "Try Intervalometer",
+          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.intervalometer",
+          "appId": "intervalometer",
+          "description": "Pair with a compatible camera app to capture RAW frames automatically"
         },
         {
-          "title": "Try LightTrails",
+          "title": "Try Lightroom",
+          "url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
+          "appId": "lightroom",
+          "description": "Edit and export the image sequence"
+        },
+        {
+          "title": "Try TimeLab",
+          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.timelab",
+          "appId": "timelab",
+          "description": "Render the frames into a timelapse video"
+        }
+      ],
+      "videoUrl": "videos/scenarios/VID_timelab_20260912111020.mp4"
+    },
+    {
+      "id": "professional-grade-star-trails-with-creative-effects",
+      "title": "Professional-Grade Star Trails with Creative Effects",
+      "shortDescription": "Create detailed RAW star trails with fading tails and continuous paths.",
+      "fullDescription": "Pair Intervalometer with a compatible camera app to capture a long sequence of RAW night-sky photos. Import the sequence into Light Trails to combine the frames, apply Comet Mode for creative fading trails, close unwanted gaps, and export the final result in DNG format for further editing.",
+      "images": [
+        "images/scenarios/IMG_20260831_221122_398_STACK.JPG",
+        "images/scenarios/IMG_20260831_224054_654_STACK.JPG",
+        "images/scenarios/Screenshot_20260831_225449_Light Trails.jpg"
+      ],
+      "cardImage": "images/scenarios/IMG_20260831_221122_398_STACK.JPG",
+      "detailImage": "images/scenarios/IMG_20260831_221122_398_STACK.JPG",
+      "appIds": [
+        "intervalometer",
+        "lighttrails"
+      ],
+      "links": [
+        {
+          "title": "Try Intervalometer",
+          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.intervalometer",
+          "appId": "intervalometer",
+          "description": "Pair with a compatible camera app to capture the RAW image sequence"
+        },
+        {
+          "title": "Try Light Trails",
           "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.lighttrails",
-          "appId": "lighttrails"
+          "appId": "lighttrails",
+          "description": "Stack images, apply Comet Mode, close gaps, and export as DNG"
         }
       ]
     },
     {
-      "id": "light-trails-01",
-      "title": "Light Trails",
-      "shortDescription": "Turn moving lights at night into bright flowing lines.",
-      "cardImage": "",
-      "detailImage": "",
-      "appIds": ["motion-procam", "lighttrails"],
-      "content": [
-        {
-          "heading": "Find moving light",
-          "body": "Traffic, bicycles, and handheld lights work well against a dark background."
-        },
-        {
-          "heading": "Build the final image",
-          "body": "Capture a sequence and combine the brightest parts of each frame."
-        }
+      "id": "professional-grade-astrophotography",
+      "title": "Professional-Grade Astrophotography",
+      "shortDescription": "Create cleaner, lower-noise astrophotography images through RAW stacking.",
+      "fullDescription": "Pair Intervalometer with a compatible camera app to capture multiple RAW photos of the night sky with consistent settings. Import them into Compose, which aligns the stars and stacks the frames to reduce noise while preserving detail, producing a cleaner astrophotography image.",
+      "images": [
+        "images/scenarios/stacked_milky_way.jpg",
+        "images/scenarios/compose_milky_way.JPG"
+      ],
+      "cardImage": "images/scenarios/stacked_milky_way.jpg",
+      "detailImage": "images/scenarios/stacked_milky_way.jpg",
+      "appIds": [
+        "intervalometer",
+        "compose"
       ],
       "links": [
         {
-          "title": "Try Motion ProCam",
-          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.motioncamera",
-          "appId": "motion-procam"
+          "title": "Try Intervalometer",
+          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.intervalometer",
+          "appId": "intervalometer",
+          "description": "Pair with a compatible camera app to capture multiple RAW images"
         },
         {
-          "title": "Try LightTrails",
-          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.lighttrails",
-          "appId": "lighttrails"
+          "title": "Try Compose",
+          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.motionstacks",
+          "appId": "compose",
+          "description": "Align and stack frames for noise reduction"
         }
       ]
     },
     {
-      "id": "motion-blur-01",
-      "title": "Motion Blur",
-      "shortDescription": "Use intentional movement to create soft and expressive photographs.",
-      "cardImage": "",
-      "detailImage": "",
-      "appIds": ["motion-procam"],
-      "content": [
-        {
-          "heading": "Choose the movement",
-          "body": "Photograph moving water, people, traffic, or move the camera during capture."
-        },
-        {
-          "heading": "Adjust the result",
-          "body": "Try different exposure times until the moving subject has the texture you want."
-        }
+      "id": "handheld-raw-long-exposure",
+      "title": "Handheld RAW Long Exposure",
+      "shortDescription": "Capture high-quality RAW long exposures without a tripod.",
+      "fullDescription": "Use Motion ProCam to capture handheld long-exposure photographs in RAW. Automatic alignment and stabilization compensate for small hand movements, making it possible to photograph smooth water, moving clouds, light trails, and other motion effects while preserving editing flexibility.",
+      "images": [
+        "images/scenarios/IMG_0466.JPG",
+        "images/scenarios/IMG_2s_20220103091425.jpg"
+      ],
+      "cardImage": "images/scenarios/IMG_0466.JPG",
+      "detailImage": "images/scenarios/IMG_0466.JPG",
+      "appIds": [
+        "motion-procam"
       ],
       "links": [
         {
           "title": "Try Motion ProCam",
           "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.motioncamera",
-          "appId": "motion-procam"
+          "appId": "motion-procam",
+          "description": "Capture stabilized handheld RAW long exposures"
+        }
+      ]
+    },
+    {
+      "id": "cinematic-timelapse-with-motion-blur",
+      "title": "Cinematic Timelapse with Motion Blur",
+      "shortDescription": "Create smoother, more cinematic timelapses with natural motion blur.",
+      "fullDescription": "Pair Intervalometer with a compatible camera app to capture a controlled sequence of photographs. Import the frames into TimeLab and apply motion-blur rendering to reduce the harsh, jittery appearance of conventional timelapses and create smoother movement.",
+      "images": [
+        "images/scenarios/IMG_3126.JPG"
+      ],
+      "cardImage": "images/scenarios/IMG_3126.JPG",
+      "detailImage": "images/scenarios/IMG_3126.JPG",
+      "appIds": [
+        "intervalometer",
+        "timelab"
+      ],
+      "links": [
+        {
+          "title": "Try Intervalometer",
+          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.intervalometer",
+          "appId": "intervalometer",
+          "description": "Pair with a compatible camera app to capture frames at consistent intervals"
+        },
+        {
+          "title": "Try TimeLab",
+          "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.timelab",
+          "appId": "timelab",
+          "description": "Render the sequence with motion blur"
         }
       ]
     }

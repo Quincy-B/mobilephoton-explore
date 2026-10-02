@@ -6,6 +6,7 @@ on:
     paths:
       - "library.json"
       - "content/images/**"
+      - "content/videos/**"
       - ".github/workflows/publish-content.yml"
   workflow_dispatch:
 
@@ -30,11 +31,12 @@ jobs:
 
       - name: Prepare public content
         run: |
-          mkdir -p _site/images
+          mkdir -p _site/images _site/videos
           curl --fail --location --silent --show-error \
             https://raw.githubusercontent.com/Quincy-B/mobilephoton-explore/main/library.json \
             --output _site/library.json
           cp -R content/images/. _site/images/
+          cp -R content/videos/. _site/videos/
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5

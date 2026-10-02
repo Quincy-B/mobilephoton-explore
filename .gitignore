@@ -12,3 +12,6 @@
 
 !content/
 !content/**
+
+# Never publish macOS metadata from content directories.
+.DS_Store
