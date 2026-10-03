@@ -2,6 +2,24 @@
   "version": 1,
   "title": "Explore What’s Possible",
   "subtitle": "Creative photography ideas using MobilePhoton apps.",
+  "translations": {
+    "id": {
+      "title": "Jelajahi Berbagai Kemungkinan",
+      "subtitle": "Ide fotografi kreatif menggunakan aplikasi MobilePhoton."
+    },
+    "de": {
+      "title": "Entdecke die Möglichkeiten",
+      "subtitle": "Kreative Fotoideen mit MobilePhoton-Apps."
+    },
+    "hi": {
+      "title": "नई संभावनाएँ खोजें",
+      "subtitle": "MobilePhoton ऐप्स के साथ रचनात्मक फ़ोटोग्राफ़ी के सुझाव।"
+    },
+    "zh-Hant": {
+      "title": "探索更多可能",
+      "subtitle": "使用 MobilePhoton 應用程式的創意攝影靈感。"
+    }
+  },
   "apps": [
     {
       "id": "motion-procam",
@@ -52,6 +70,28 @@
       "title": "Professional-Grade Milky Way Timelapse",
       "shortDescription": "Create a detailed Milky Way timelapse from individually edited RAW photos.",
       "fullDescription": "Pair Intervalometer with a compatible camera app to capture a sequence of RAW night-sky photos at consistent intervals. Edit one frame in Lightroom, synchronize the adjustments across the entire sequence, and export the edited frames. Import them into TimeLab to render a high-quality Milky Way timelapse video.",
+      "translations": {
+        "id": {
+          "title": "Timelapse Bima Sakti Berkualitas Profesional",
+          "shortDescription": "Buat timelapse Bima Sakti yang detail dari foto RAW yang diedit satu per satu.",
+          "fullDescription": "Gunakan Intervalometer bersama aplikasi kamera yang kompatibel untuk mengambil rangkaian foto RAW langit malam dengan interval yang konsisten. Edit satu foto di Lightroom, sinkronkan penyesuaian ke seluruh rangkaian, lalu ekspor foto yang telah diedit. Impor foto-foto tersebut ke TimeLab untuk menghasilkan video timelapse Bima Sakti berkualitas tinggi."
+        },
+        "de": {
+          "title": "Milchstraßen-Zeitraffer in Profiqualität",
+          "shortDescription": "Erstelle einen detailreichen Milchstraßen-Zeitraffer aus einzeln bearbeiteten RAW-Fotos.",
+          "fullDescription": "Verwende Intervalometer zusammen mit einer kompatiblen Kamera-App, um eine Serie von RAW-Fotos des Nachthimmels in gleichmäßigen Abständen aufzunehmen. Bearbeite ein Foto in Lightroom, synchronisiere die Anpassungen über die gesamte Serie und exportiere die bearbeiteten Bilder. Importiere sie in TimeLab, um ein hochwertiges Milchstraßen-Zeitraffervideo zu erstellen."
+        },
+        "hi": {
+          "title": "पेशेवर गुणवत्ता वाला आकाशगंगा टाइमलैप्स",
+          "shortDescription": "अलग-अलग संपादित RAW तस्वीरों से आकाशगंगा का विस्तृत टाइमलैप्स बनाएँ।",
+          "fullDescription": "किसी संगत कैमरा ऐप के साथ Intervalometer का उपयोग करके नियमित अंतराल पर रात के आसमान की RAW तस्वीरों की एक शृंखला लें। Lightroom में एक तस्वीर संपादित करें, उसके समायोजन पूरी शृंखला पर लागू करें और संपादित तस्वीरें निर्यात करें। आकाशगंगा का उच्च गुणवत्ता वाला टाइमलैप्स वीडियो बनाने के लिए उन्हें TimeLab में आयात करें।"
+        },
+        "zh-Hant": {
+          "title": "專業級銀河縮時攝影",
+          "shortDescription": "使用逐張編輯的 RAW 照片，製作細節豐富的銀河縮時影片。",
+          "fullDescription": "搭配 Intervalometer 與相容的相機應用程式，以固定間隔拍攝一系列夜空 RAW 照片。在 Lightroom 中編輯其中一張，將調整同步套用至整個系列，再匯出編輯後的照片。將照片匯入 TimeLab，即可製作高品質的銀河縮時影片。"
+        }
+      },
       "images": [],
       "cardImage": "",
       "detailImage": "",
@@ -65,19 +105,73 @@
           "title": "Try Intervalometer",
           "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.intervalometer",
           "appId": "intervalometer",
-          "description": "Pair with a compatible camera app to capture RAW frames automatically"
+          "description": "Pair with a compatible camera app to capture RAW frames automatically",
+          "translations": {
+            "id": {
+              "title": "Coba Intervalometer",
+              "description": "Gunakan bersama aplikasi kamera yang kompatibel untuk mengambil foto RAW secara otomatis"
+            },
+            "de": {
+              "title": "Intervalometer ausprobieren",
+              "description": "Mit einer kompatiblen Kamera-App automatisch RAW-Fotos aufnehmen"
+            },
+            "hi": {
+              "title": "Intervalometer आज़माएँ",
+              "description": "किसी संगत कैमरा ऐप के साथ अपने आप RAW तस्वीरें लें"
+            },
+            "zh-Hant": {
+              "title": "試用 Intervalometer",
+              "description": "搭配相容的相機應用程式，自動拍攝 RAW 照片"
+            }
+          }
         },
         {
           "title": "Try Lightroom",
           "url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
           "appId": "lightroom",
-          "description": "Edit and export the image sequence"
+          "description": "Edit and export the image sequence",
+          "translations": {
+            "id": {
+              "title": "Coba Lightroom",
+              "description": "Edit dan ekspor rangkaian foto"
+            },
+            "de": {
+              "title": "Lightroom ausprobieren",
+              "description": "Die Bildserie bearbeiten und exportieren"
+            },
+            "hi": {
+              "title": "Lightroom आज़माएँ",
+              "description": "तस्वीरों की शृंखला संपादित और निर्यात करें"
+            },
+            "zh-Hant": {
+              "title": "試用 Lightroom",
+              "description": "編輯並匯出照片系列"
+            }
+          }
         },
         {
           "title": "Try TimeLab",
           "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.timelab",
           "appId": "timelab",
-          "description": "Render the frames into a timelapse video"
+          "description": "Render the frames into a timelapse video",
+          "translations": {
+            "id": {
+              "title": "Coba TimeLab",
+              "description": "Ubah rangkaian foto menjadi video timelapse"
+            },
+            "de": {
+              "title": "TimeLab ausprobieren",
+              "description": "Aus den Bildern ein Zeitraffervideo erstellen"
+            },
+            "hi": {
+              "title": "TimeLab आज़माएँ",
+              "description": "तस्वीरों से टाइमलैप्स वीडियो बनाएँ"
+            },
+            "zh-Hant": {
+              "title": "試用 TimeLab",
+              "description": "將照片製作成縮時影片"
+            }
+          }
         }
       ],
       "videoUrl": "content/videos/scenarios/VID_timelab_20260912111020.mp4"
@@ -87,6 +181,28 @@
       "title": "Professional-Grade Star Trails with Creative Effects",
       "shortDescription": "Create detailed RAW star trails with fading tails and continuous paths.",
       "fullDescription": "Pair Intervalometer with a compatible camera app to capture a long sequence of RAW night-sky photos. Import the sequence into Light Trails to combine the frames, apply Comet Mode for creative fading trails, close unwanted gaps, and export the final result in DNG format for further editing.",
+      "translations": {
+        "id": {
+          "title": "Jejak Bintang Berkualitas Profesional dengan Efek Kreatif",
+          "shortDescription": "Buat jejak bintang RAW yang detail dengan ekor yang memudar dan jalur yang menyambung.",
+          "fullDescription": "Gunakan Intervalometer bersama aplikasi kamera yang kompatibel untuk mengambil rangkaian panjang foto RAW langit malam. Impor rangkaian tersebut ke Light Trails untuk menggabungkan foto, menerapkan Comet Mode agar ekor jejak memudar secara kreatif, menutup celah yang tidak diinginkan, dan mengekspor hasil akhir dalam format DNG untuk pengeditan lebih lanjut."
+        },
+        "de": {
+          "title": "Sternspuren in Profiqualität mit kreativen Effekten",
+          "shortDescription": "Erstelle detailreiche RAW-Sternspuren mit auslaufenden Schweifen und durchgehenden Bahnen.",
+          "fullDescription": "Verwende Intervalometer zusammen mit einer kompatiblen Kamera-App, um eine lange Serie von RAW-Fotos des Nachthimmels aufzunehmen. Importiere die Serie in Light Trails, um die Bilder zu kombinieren, mit Comet Mode kreative, auslaufende Schweife zu erzeugen, unerwünschte Lücken zu schließen und das Ergebnis zur weiteren Bearbeitung im DNG-Format zu exportieren."
+        },
+        "hi": {
+          "title": "रचनात्मक प्रभावों के साथ पेशेवर गुणवत्ता वाले स्टार ट्रेल्स",
+          "shortDescription": "धीरे-धीरे फीकी पड़ती पूँछों और बिना अंतराल वाले पथों के साथ विस्तृत RAW स्टार ट्रेल्स बनाएँ।",
+          "fullDescription": "किसी संगत कैमरा ऐप के साथ Intervalometer का उपयोग करके रात के आसमान की RAW तस्वीरों की एक लंबी शृंखला लें। तस्वीरों को मिलाने, धीरे-धीरे फीकी पड़ती पूँछों का रचनात्मक प्रभाव देने के लिए Comet Mode लागू करने और अनचाहे अंतराल भरने के लिए इस शृंखला को Light Trails में आयात करें। आगे संपादन करने के लिए अंतिम परिणाम DNG फ़ॉर्मैट में निर्यात करें।"
+        },
+        "zh-Hant": {
+          "title": "專業級星軌攝影與創意效果",
+          "shortDescription": "製作細節豐富的 RAW 星軌照片，呈現漸淡的尾跡與連續軌跡。",
+          "fullDescription": "搭配 Intervalometer 與相容的相機應用程式，拍攝一長串夜空 RAW 照片。將照片系列匯入 Light Trails，合併照片、套用 Comet Mode 呈現創意漸淡尾跡、填補不需要的間隙，最後以 DNG 格式匯出成果，方便進一步編輯。"
+        }
+      },
       "images": [
         "content/images/scenarios/IMG_20260831_221122_398_STACK.JPG",
         "content/images/scenarios/IMG_20260831_224054_654_STACK.JPG",
@@ -103,13 +219,49 @@
           "title": "Try Intervalometer",
           "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.intervalometer",
           "appId": "intervalometer",
-          "description": "Pair with a compatible camera app to capture the RAW image sequence"
+          "description": "Pair with a compatible camera app to capture the RAW image sequence",
+          "translations": {
+            "id": {
+              "title": "Coba Intervalometer",
+              "description": "Gunakan bersama aplikasi kamera yang kompatibel untuk mengambil rangkaian foto RAW"
+            },
+            "de": {
+              "title": "Intervalometer ausprobieren",
+              "description": "Mit einer kompatiblen Kamera-App eine RAW-Bildserie aufnehmen"
+            },
+            "hi": {
+              "title": "Intervalometer आज़माएँ",
+              "description": "किसी संगत कैमरा ऐप के साथ RAW तस्वीरों की शृंखला लें"
+            },
+            "zh-Hant": {
+              "title": "試用 Intervalometer",
+              "description": "搭配相容的相機應用程式，拍攝 RAW 照片系列"
+            }
+          }
         },
         {
           "title": "Try Light Trails",
           "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.lighttrails",
           "appId": "lighttrails",
-          "description": "Stack images, apply Comet Mode, close gaps, and export as DNG"
+          "description": "Stack images, apply Comet Mode, close gaps, and export as DNG",
+          "translations": {
+            "id": {
+              "title": "Coba Light Trails",
+              "description": "Tumpuk foto, terapkan Comet Mode, tutup celah, dan ekspor sebagai DNG"
+            },
+            "de": {
+              "title": "Light Trails ausprobieren",
+              "description": "Bilder stapeln, Comet Mode anwenden, Lücken schließen und als DNG exportieren"
+            },
+            "hi": {
+              "title": "Light Trails आज़माएँ",
+              "description": "तस्वीरें स्टैक करें, Comet Mode लागू करें, अंतराल भरें और DNG के रूप में निर्यात करें"
+            },
+            "zh-Hant": {
+              "title": "試用 Light Trails",
+              "description": "堆疊照片、套用 Comet Mode、填補間隙，並匯出為 DNG"
+            }
+          }
         }
       ]
     },
@@ -118,6 +270,28 @@
       "title": "Professional-Grade Astrophotography",
       "shortDescription": "Create cleaner, lower-noise astrophotography images through RAW stacking.",
       "fullDescription": "Pair Intervalometer with a compatible camera app to capture multiple RAW photos of the night sky with consistent settings. Import them into Compose, which aligns the stars and stacks the frames to reduce noise while preserving detail, producing a cleaner astrophotography image.",
+      "translations": {
+        "id": {
+          "title": "Astrofotografi Berkualitas Profesional",
+          "shortDescription": "Buat foto astrofotografi yang lebih bersih dengan lebih sedikit noise melalui penumpukan RAW.",
+          "fullDescription": "Gunakan Intervalometer bersama aplikasi kamera yang kompatibel untuk mengambil beberapa foto RAW langit malam dengan pengaturan yang konsisten. Impor foto-foto tersebut ke Compose, yang menyelaraskan bintang dan menumpuk foto untuk mengurangi noise sambil mempertahankan detail, sehingga menghasilkan foto astrofotografi yang lebih bersih."
+        },
+        "de": {
+          "title": "Astrofotografie in Profiqualität",
+          "shortDescription": "Erstelle durch RAW-Stacking klarere Astrofotos mit weniger Bildrauschen.",
+          "fullDescription": "Verwende Intervalometer zusammen mit einer kompatiblen Kamera-App, um mehrere RAW-Fotos des Nachthimmels mit gleichbleibenden Einstellungen aufzunehmen. Importiere sie in Compose. Die App richtet die Sterne aus und stapelt die Bilder, um Bildrauschen zu reduzieren und gleichzeitig Details zu erhalten. So entsteht ein klareres Astrofoto."
+        },
+        "hi": {
+          "title": "पेशेवर गुणवत्ता वाली खगोल फ़ोटोग्राफ़ी",
+          "shortDescription": "RAW तस्वीरें स्टैक करके अधिक साफ़ और कम नॉइज़ वाली खगोल तस्वीरें बनाएँ।",
+          "fullDescription": "किसी संगत कैमरा ऐप के साथ Intervalometer का उपयोग करके एक जैसी सेटिंग्स पर रात के आसमान की कई RAW तस्वीरें लें। उन्हें Compose में आयात करें। यह ऐप तारों को संरेखित करके तस्वीरें स्टैक करता है, जिससे विवरण बनाए रखते हुए नॉइज़ कम होता है और अधिक साफ़ खगोल तस्वीर मिलती है।"
+        },
+        "zh-Hant": {
+          "title": "專業級天文攝影",
+          "shortDescription": "透過 RAW 堆疊，製作更清晰、雜訊更少的天文照片。",
+          "fullDescription": "搭配 Intervalometer 與相容的相機應用程式，以一致的設定拍攝多張夜空 RAW 照片。將照片匯入 Compose，應用程式會對齊星點並堆疊照片，在保留細節的同時降低雜訊，產生更清晰的天文照片。"
+        }
+      },
       "images": [
         "content/images/scenarios/stacked_milky_way.jpg",
         "content/images/scenarios/compose_milky_way.JPG"
@@ -133,13 +307,49 @@
           "title": "Try Intervalometer",
           "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.intervalometer",
           "appId": "intervalometer",
-          "description": "Pair with a compatible camera app to capture multiple RAW images"
+          "description": "Pair with a compatible camera app to capture multiple RAW images",
+          "translations": {
+            "id": {
+              "title": "Coba Intervalometer",
+              "description": "Gunakan bersama aplikasi kamera yang kompatibel untuk mengambil beberapa foto RAW"
+            },
+            "de": {
+              "title": "Intervalometer ausprobieren",
+              "description": "Mit einer kompatiblen Kamera-App mehrere RAW-Fotos aufnehmen"
+            },
+            "hi": {
+              "title": "Intervalometer आज़माएँ",
+              "description": "किसी संगत कैमरा ऐप के साथ कई RAW तस्वीरें लें"
+            },
+            "zh-Hant": {
+              "title": "試用 Intervalometer",
+              "description": "搭配相容的相機應用程式，拍攝多張 RAW 照片"
+            }
+          }
         },
         {
           "title": "Try Compose",
           "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.motionstacks",
           "appId": "compose",
-          "description": "Align and stack frames for noise reduction"
+          "description": "Align and stack frames for noise reduction",
+          "translations": {
+            "id": {
+              "title": "Coba Compose",
+              "description": "Selaraskan dan tumpuk foto untuk mengurangi noise"
+            },
+            "de": {
+              "title": "Compose ausprobieren",
+              "description": "Bilder ausrichten und stapeln, um Bildrauschen zu reduzieren"
+            },
+            "hi": {
+              "title": "Compose आज़माएँ",
+              "description": "नॉइज़ कम करने के लिए तस्वीरें संरेखित और स्टैक करें"
+            },
+            "zh-Hant": {
+              "title": "試用 Compose",
+              "description": "對齊並堆疊照片以降低雜訊"
+            }
+          }
         }
       ]
     },
@@ -148,6 +358,28 @@
       "title": "Handheld RAW Long Exposure",
       "shortDescription": "Capture high-quality RAW long exposures without a tripod.",
       "fullDescription": "Use Motion ProCam to capture handheld long-exposure photographs in RAW. Automatic alignment and stabilization compensate for small hand movements, making it possible to photograph smooth water, moving clouds, light trails, and other motion effects while preserving editing flexibility.",
+      "translations": {
+        "id": {
+          "title": "Paparan Lama RAW Genggam",
+          "shortDescription": "Ambil foto RAW berkualitas tinggi dengan paparan lama tanpa tripod.",
+          "fullDescription": "Gunakan Motion ProCam untuk mengambil foto dengan paparan lama dalam RAW sambil memegang ponsel. Penyelarasan dan stabilisasi otomatis mengimbangi gerakan kecil tangan, sehingga Anda dapat memotret air yang tampak halus, awan bergerak, jejak cahaya, dan efek gerakan lainnya sambil tetap mempertahankan fleksibilitas pengeditan."
+        },
+        "de": {
+          "title": "RAW-Langzeitbelichtung aus der Hand",
+          "shortDescription": "Nimm hochwertige RAW-Langzeitbelichtungen ohne Stativ auf.",
+          "fullDescription": "Nimm mit Motion ProCam RAW-Langzeitbelichtungen aus der Hand auf. Automatische Ausrichtung und Stabilisierung gleichen kleine Handbewegungen aus. So kannst du weich fließendes Wasser, ziehende Wolken, Lichtspuren und andere Bewegungseffekte fotografieren und gleichzeitig die volle Flexibilität bei der Bearbeitung behalten."
+        },
+        "hi": {
+          "title": "हाथ में फ़ोन पकड़कर RAW लॉन्ग एक्सपोज़र",
+          "shortDescription": "ट्राइपॉड के बिना उच्च गुणवत्ता वाली RAW लॉन्ग एक्सपोज़र तस्वीरें लें।",
+          "fullDescription": "Motion ProCam का उपयोग करके हाथ में फ़ोन पकड़कर RAW लॉन्ग एक्सपोज़र तस्वीरें लें। स्वचालित संरेखण और स्थिरीकरण हाथ की छोटी हलचलों की भरपाई करते हैं। इससे आप पानी का मुलायम बहाव, चलते बादल, प्रकाश की लकीरें और गति के अन्य प्रभाव कैप्चर कर सकते हैं, साथ ही संपादन की सुविधा भी बनाए रख सकते हैं।"
+        },
+        "zh-Hant": {
+          "title": "手持 RAW 長時間曝光",
+          "shortDescription": "無需腳架，即可拍攝高品質的 RAW 長時間曝光照片。",
+          "fullDescription": "使用 Motion ProCam 手持拍攝 RAW 長時間曝光照片。自動對齊與穩定功能可補償手部的細微晃動，讓您拍攝柔滑流水、移動雲朵、光軌及其他動態效果，同時保留後續編輯的彈性。"
+        }
+      },
       "images": [
         "content/images/scenarios/IMG_0466.JPG",
         "content/images/scenarios/IMG_2s_20220103091425.jpg"
@@ -162,7 +394,25 @@
           "title": "Try Motion ProCam",
           "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.motioncamera",
           "appId": "motion-procam",
-          "description": "Capture stabilized handheld RAW long exposures"
+          "description": "Capture stabilized handheld RAW long exposures",
+          "translations": {
+            "id": {
+              "title": "Coba Motion ProCam",
+              "description": "Ambil foto RAW dengan paparan lama sambil memegang ponsel menggunakan stabilisasi"
+            },
+            "de": {
+              "title": "Motion ProCam ausprobieren",
+              "description": "Stabilisierte RAW-Langzeitbelichtungen aus der Hand aufnehmen"
+            },
+            "hi": {
+              "title": "Motion ProCam आज़माएँ",
+              "description": "हाथ में फ़ोन पकड़कर स्थिरीकरण के साथ RAW लॉन्ग एक्सपोज़र तस्वीरें लें"
+            },
+            "zh-Hant": {
+              "title": "試用 Motion ProCam",
+              "description": "手持拍攝經穩定處理的 RAW 長時間曝光照片"
+            }
+          }
         }
       ]
     },
@@ -171,6 +421,28 @@
       "title": "Cinematic Timelapse with Motion Blur",
       "shortDescription": "Create smoother, more cinematic timelapses with natural motion blur.",
       "fullDescription": "Pair Intervalometer with a compatible camera app to capture a controlled sequence of photographs. Import the frames into TimeLab and apply motion-blur rendering to reduce the harsh, jittery appearance of conventional timelapses and create smoother movement.",
+      "translations": {
+        "id": {
+          "title": "Timelapse Sinematik dengan Buram Gerak",
+          "shortDescription": "Buat timelapse yang lebih halus dan sinematik dengan buram gerak alami.",
+          "fullDescription": "Gunakan Intervalometer bersama aplikasi kamera yang kompatibel untuk mengambil rangkaian foto dengan pengaturan terkontrol. Impor foto-foto tersebut ke TimeLab dan terapkan perenderan buram gerak untuk mengurangi tampilan gerakan yang kasar dan tersentak pada timelapse biasa, sehingga gerakan terlihat lebih halus."
+        },
+        "de": {
+          "title": "Filmische Zeitraffer mit Bewegungsunschärfe",
+          "shortDescription": "Erstelle flüssigere, filmischere Zeitraffer mit natürlicher Bewegungsunschärfe.",
+          "fullDescription": "Verwende Intervalometer zusammen mit einer kompatiblen Kamera-App, um eine kontrollierte Fotoserie aufzunehmen. Importiere die Bilder in TimeLab und wende das Rendering mit Bewegungsunschärfe an. Dadurch wirken Bewegungen flüssiger, und das harte, ruckelige Erscheinungsbild herkömmlicher Zeitraffer wird reduziert."
+        },
+        "hi": {
+          "title": "मोशन ब्लर के साथ सिनेमाई टाइमलैप्स",
+          "shortDescription": "प्राकृतिक मोशन ब्लर के साथ अधिक सहज और सिनेमाई टाइमलैप्स बनाएँ।",
+          "fullDescription": "किसी संगत कैमरा ऐप के साथ Intervalometer का उपयोग करके तस्वीरों की एक नियंत्रित शृंखला लें। तस्वीरों को TimeLab में आयात करें और मोशन ब्लर रेंडरिंग लागू करें। इससे सामान्य टाइमलैप्स में दिखने वाली कठोर, झटकेदार गति कम होती है और गति अधिक सहज दिखती है।"
+        },
+        "zh-Hant": {
+          "title": "結合動態模糊的電影感縮時攝影",
+          "shortDescription": "透過自然的動態模糊，製作更流暢、更具電影感的縮時影片。",
+          "fullDescription": "搭配 Intervalometer 與相容的相機應用程式，拍攝一系列受控的照片。將照片匯入 TimeLab，並套用動態模糊算圖處理，以減少傳統縮時影片生硬、跳動的視覺效果，呈現更流暢的動作。"
+        }
+      },
       "images": [
         "content/images/scenarios/IMG_3126.JPG"
       ],
@@ -185,13 +457,49 @@
           "title": "Try Intervalometer",
           "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.intervalometer",
           "appId": "intervalometer",
-          "description": "Pair with a compatible camera app to capture frames at consistent intervals"
+          "description": "Pair with a compatible camera app to capture frames at consistent intervals",
+          "translations": {
+            "id": {
+              "title": "Coba Intervalometer",
+              "description": "Gunakan bersama aplikasi kamera yang kompatibel untuk mengambil foto dengan interval yang konsisten"
+            },
+            "de": {
+              "title": "Intervalometer ausprobieren",
+              "description": "Mit einer kompatiblen Kamera-App Bilder in gleichmäßigen Abständen aufnehmen"
+            },
+            "hi": {
+              "title": "Intervalometer आज़माएँ",
+              "description": "किसी संगत कैमरा ऐप के साथ नियमित अंतराल पर तस्वीरें लें"
+            },
+            "zh-Hant": {
+              "title": "試用 Intervalometer",
+              "description": "搭配相容的相機應用程式，以固定間隔拍攝照片"
+            }
+          }
         },
         {
           "title": "Try TimeLab",
           "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.timelab",
           "appId": "timelab",
-          "description": "Render the sequence with motion blur"
+          "description": "Render the sequence with motion blur",
+          "translations": {
+            "id": {
+              "title": "Coba TimeLab",
+              "description": "Ubah rangkaian foto menjadi video dengan buram gerak"
+            },
+            "de": {
+              "title": "TimeLab ausprobieren",
+              "description": "Die Bildserie mit Bewegungsunschärfe rendern"
+            },
+            "hi": {
+              "title": "TimeLab आज़माएँ",
+              "description": "तस्वीरों की शृंखला को मोशन ब्लर के साथ रेंडर करें"
+            },
+            "zh-Hant": {
+              "title": "試用 TimeLab",
+              "description": "以動態模糊效果製作照片系列影片"
+            }
+          }
         }
       ]
     }
