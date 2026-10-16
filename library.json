@@ -76,38 +76,38 @@
     {
       "id": "professional-grade-milky-way-timelapse",
       "title": "Professional-Grade Milky Way Timelapse",
-      "shortDescription": "Create a detailed Milky Way timelapse from individually edited RAW photos.",
-      "fullDescription": "Pair Intervalometer with a compatible camera app to capture a sequence of RAW night-sky photos at consistent intervals. Edit one frame in Lightroom, synchronize the adjustments across the entire sequence, and export the edited frames. Import them into TimeLab to render a high-quality Milky Way timelapse video.",
+      "shortDescription": "Create a detailed Milky Way timelapse by editing a RAW photo sequence in TimeLab.",
+      "fullDescription": "Pair Intervalometer with a compatible camera app to capture a sequence of RAW night-sky photos at consistent intervals. Import the sequence into TimeLab to edit the frames and render a high-quality Milky Way timelapse video.",
       "translations": {
         "id": {
           "title": "Timelapse Bima Sakti Berkualitas Profesional",
-          "shortDescription": "Buat timelapse Bima Sakti yang detail dari foto RAW yang diedit satu per satu.",
-          "fullDescription": "Gunakan Intervalometer bersama aplikasi kamera yang kompatibel untuk mengambil rangkaian foto RAW langit malam dengan interval yang konsisten. Edit satu foto di Lightroom, sinkronkan penyesuaian ke seluruh rangkaian, lalu ekspor foto yang telah diedit. Impor foto-foto tersebut ke TimeLab untuk menghasilkan video timelapse Bima Sakti berkualitas tinggi."
+          "shortDescription": "Buat timelapse Bima Sakti yang detail dengan mengedit rangkaian foto RAW di TimeLab.",
+          "fullDescription": "Gunakan Intervalometer bersama aplikasi kamera yang kompatibel untuk mengambil rangkaian foto RAW langit malam dengan interval yang konsisten. Impor rangkaian foto ke TimeLab untuk mengeditnya dan menghasilkan video timelapse Bima Sakti berkualitas tinggi."
         },
         "de": {
           "title": "Milchstraßen-Zeitraffer in Profiqualität",
-          "shortDescription": "Erstelle einen detailreichen Milchstraßen-Zeitraffer aus einzeln bearbeiteten RAW-Fotos.",
-          "fullDescription": "Verwende Intervalometer zusammen mit einer kompatiblen Kamera-App, um eine Serie von RAW-Fotos des Nachthimmels in gleichmäßigen Abständen aufzunehmen. Bearbeite ein Foto in Lightroom, synchronisiere die Anpassungen über die gesamte Serie und exportiere die bearbeiteten Bilder. Importiere sie in TimeLab, um ein hochwertiges Milchstraßen-Zeitraffervideo zu erstellen."
+          "shortDescription": "Erstelle einen detailreichen Milchstraßen-Zeitraffer, indem du eine RAW-Fotoserie in TimeLab bearbeitest.",
+          "fullDescription": "Verwende Intervalometer zusammen mit einer kompatiblen Kamera-App, um eine Serie von RAW-Fotos des Nachthimmels in gleichmäßigen Abständen aufzunehmen. Importiere die Serie in TimeLab, um die Bilder zu bearbeiten und ein hochwertiges Milchstraßen-Zeitraffervideo zu erstellen."
         },
         "hi": {
           "title": "पेशेवर गुणवत्ता वाला आकाशगंगा टाइमलैप्स",
-          "shortDescription": "अलग-अलग संपादित RAW तस्वीरों से आकाशगंगा का विस्तृत टाइमलैप्स बनाएँ।",
-          "fullDescription": "किसी संगत कैमरा ऐप के साथ Intervalometer का उपयोग करके नियमित अंतराल पर रात के आसमान की RAW तस्वीरों की एक शृंखला लें। Lightroom में एक तस्वीर संपादित करें, उसके समायोजन पूरी शृंखला पर लागू करें और संपादित तस्वीरें निर्यात करें। आकाशगंगा का उच्च गुणवत्ता वाला टाइमलैप्स वीडियो बनाने के लिए उन्हें TimeLab में आयात करें।"
+          "shortDescription": "TimeLab में RAW तस्वीरों की शृंखला संपादित करके आकाशगंगा का विस्तृत टाइमलैप्स बनाएँ।",
+          "fullDescription": "किसी संगत कैमरा ऐप के साथ Intervalometer का उपयोग करके नियमित अंतराल पर रात के आसमान की RAW तस्वीरों की एक शृंखला लें। तस्वीरों की शृंखला को TimeLab में आयात करें, जहाँ आप उसे संपादित करके आकाशगंगा का उच्च गुणवत्ता वाला टाइमलैप्स वीडियो बना सकते हैं।"
         },
         "zh-Hant": {
           "title": "專業級銀河縮時攝影",
-          "shortDescription": "使用逐張編輯的 RAW 照片，製作細節豐富的銀河縮時影片。",
-          "fullDescription": "搭配 Intervalometer 與相容的相機應用程式，以固定間隔拍攝一系列夜空 RAW 照片。在 Lightroom 中編輯其中一張，將調整同步套用至整個系列，再匯出編輯後的照片。將照片匯入 TimeLab，即可製作高品質的銀河縮時影片。"
+          "shortDescription": "在 TimeLab 中編輯 RAW 照片系列，製作細節豐富的銀河縮時影片。",
+          "fullDescription": "搭配 Intervalometer 與相容的相機應用程式，以固定間隔拍攝一系列夜空 RAW 照片。將照片系列匯入 TimeLab，編輯照片並製作高品質的銀河縮時影片。"
         },
         "ja": {
           "title": "プロ品質の天の川タイムラプス",
-          "shortDescription": "個別に編集した RAW 写真から、精細な天の川タイムラプスを作成しましょう。",
-          "fullDescription": "Intervalometer と対応するカメラアプリを組み合わせ、一定の間隔で夜空の RAW 写真を連続撮影します。Lightroom で1枚を編集し、その調整をすべての写真に同期して、編集済みの写真を書き出します。TimeLab に読み込むと、高品質な天の川タイムラプス動画を作成できます。"
+          "shortDescription": "TimeLab で RAW 写真の連続画像を編集して、精細な天の川タイムラプスを作成しましょう。",
+          "fullDescription": "Intervalometer と対応するカメラアプリを組み合わせ、一定の間隔で夜空の RAW 写真を連続撮影します。連続写真を TimeLab に読み込み、写真を編集して高品質な天の川タイムラプス動画を作成します。"
         },
         "ko": {
           "title": "전문가 수준의 은하수 타임랩스",
-          "shortDescription": "개별적으로 편집한 RAW 사진으로 섬세한 은하수 타임랩스를 만들어 보세요.",
-          "fullDescription": "Intervalometer와 호환되는 카메라 앱을 함께 사용해 일정한 간격으로 밤하늘의 RAW 사진을 연속 촬영하세요. Lightroom에서 한 장을 편집하고 조정 내용을 전체 사진에 동기화한 다음, 편집한 사진을 내보내세요. TimeLab으로 가져오면 고품질 은하수 타임랩스 동영상을 만들 수 있습니다."
+          "shortDescription": "TimeLab에서 RAW 연속 사진을 편집해 섬세한 은하수 타임랩스를 만들어 보세요.",
+          "fullDescription": "Intervalometer와 호환되는 카메라 앱을 함께 사용해 일정한 간격으로 밤하늘의 RAW 사진을 연속 촬영하세요. 연속 사진을 TimeLab으로 가져와 편집하고 고품질 은하수 타임랩스 동영상을 만드세요."
         }
       },
       "images": [],
@@ -115,7 +115,6 @@
       "detailImage": "",
       "appIds": [
         "intervalometer",
-        "lightroom",
         "timelab"
       ],
       "links": [
@@ -152,66 +151,34 @@
           }
         },
         {
-          "title": "Try Lightroom",
-          "url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
-          "appId": "lightroom",
-          "description": "Edit and export the image sequence",
-          "translations": {
-            "id": {
-              "title": "Coba Lightroom",
-              "description": "Edit dan ekspor rangkaian foto"
-            },
-            "de": {
-              "title": "Lightroom ausprobieren",
-              "description": "Die Bildserie bearbeiten und exportieren"
-            },
-            "hi": {
-              "title": "Lightroom आज़माएँ",
-              "description": "तस्वीरों की शृंखला संपादित और निर्यात करें"
-            },
-            "zh-Hant": {
-              "title": "試用 Lightroom",
-              "description": "編輯並匯出照片系列"
-            },
-            "ja": {
-              "title": "Lightroom を試す",
-              "description": "連続写真を編集して書き出す"
-            },
-            "ko": {
-              "title": "Lightroom 사용해 보기",
-              "description": "연속 사진 편집 및 내보내기"
-            }
-          }
-        },
-        {
           "title": "Try TimeLab",
           "url": "https://play.google.com/store/apps/details?id=com.mobilephoton.timelab",
           "appId": "timelab",
-          "description": "Render the frames into a timelapse video",
+          "description": "Edit the frame sequence and render a timelapse video",
           "translations": {
             "id": {
               "title": "Coba TimeLab",
-              "description": "Ubah rangkaian foto menjadi video timelapse"
+              "description": "Edit rangkaian foto dan buat video timelapse"
             },
             "de": {
               "title": "TimeLab ausprobieren",
-              "description": "Aus den Bildern ein Zeitraffervideo erstellen"
+              "description": "Die Bildserie bearbeiten und ein Zeitraffervideo erstellen"
             },
             "hi": {
               "title": "TimeLab आज़माएँ",
-              "description": "तस्वीरों से टाइमलैप्स वीडियो बनाएँ"
+              "description": "तस्वीरों की शृंखला संपादित करें और टाइमलैप्स वीडियो बनाएँ"
             },
             "zh-Hant": {
               "title": "試用 TimeLab",
-              "description": "將照片製作成縮時影片"
+              "description": "編輯照片系列並製作縮時影片"
             },
             "ja": {
               "title": "TimeLab を試す",
-              "description": "写真からタイムラプス動画を作成"
+              "description": "連続写真を編集してタイムラプス動画を作成"
             },
             "ko": {
               "title": "TimeLab 사용해 보기",
-              "description": "사진으로 타임랩스 동영상 만들기"
+              "description": "연속 사진을 편집하고 타임랩스 동영상 만들기"
             }
           }
         }
