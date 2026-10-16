@@ -18,6 +18,14 @@
     "zh-Hant": {
       "title": "探索更多可能",
       "subtitle": "使用 MobilePhoton 應用程式的創意攝影靈感。"
+    },
+    "ja": {
+      "title": "可能性を探そう",
+      "subtitle": "MobilePhoton アプリを使ったクリエイティブな写真撮影のアイデア。"
+    },
+    "ko": {
+      "title": "새로운 가능성을 발견하세요",
+      "subtitle": "MobilePhoton 앱을 활용한 창의적인 사진 촬영 아이디어."
     }
   },
   "apps": [
@@ -90,6 +98,16 @@
           "title": "專業級銀河縮時攝影",
           "shortDescription": "使用逐張編輯的 RAW 照片，製作細節豐富的銀河縮時影片。",
           "fullDescription": "搭配 Intervalometer 與相容的相機應用程式，以固定間隔拍攝一系列夜空 RAW 照片。在 Lightroom 中編輯其中一張，將調整同步套用至整個系列，再匯出編輯後的照片。將照片匯入 TimeLab，即可製作高品質的銀河縮時影片。"
+        },
+        "ja": {
+          "title": "プロ品質の天の川タイムラプス",
+          "shortDescription": "個別に編集した RAW 写真から、精細な天の川タイムラプスを作成しましょう。",
+          "fullDescription": "Intervalometer と対応するカメラアプリを組み合わせ、一定の間隔で夜空の RAW 写真を連続撮影します。Lightroom で1枚を編集し、その調整をすべての写真に同期して、編集済みの写真を書き出します。TimeLab に読み込むと、高品質な天の川タイムラプス動画を作成できます。"
+        },
+        "ko": {
+          "title": "전문가 수준의 은하수 타임랩스",
+          "shortDescription": "개별적으로 편집한 RAW 사진으로 섬세한 은하수 타임랩스를 만들어 보세요.",
+          "fullDescription": "Intervalometer와 호환되는 카메라 앱을 함께 사용해 일정한 간격으로 밤하늘의 RAW 사진을 연속 촬영하세요. Lightroom에서 한 장을 편집하고 조정 내용을 전체 사진에 동기화한 다음, 편집한 사진을 내보내세요. TimeLab으로 가져오면 고품질 은하수 타임랩스 동영상을 만들 수 있습니다."
         }
       },
       "images": [],
@@ -122,6 +140,14 @@
             "zh-Hant": {
               "title": "試用 Intervalometer",
               "description": "搭配相容的相機應用程式，自動拍攝 RAW 照片"
+            },
+            "ja": {
+              "title": "Intervalometer を試す",
+              "description": "対応するカメラアプリと組み合わせて RAW 写真を自動撮影"
+            },
+            "ko": {
+              "title": "Intervalometer 사용해 보기",
+              "description": "호환되는 카메라 앱과 함께 RAW 사진 자동 촬영"
             }
           }
         },
@@ -146,6 +172,14 @@
             "zh-Hant": {
               "title": "試用 Lightroom",
               "description": "編輯並匯出照片系列"
+            },
+            "ja": {
+              "title": "Lightroom を試す",
+              "description": "連続写真を編集して書き出す"
+            },
+            "ko": {
+              "title": "Lightroom 사용해 보기",
+              "description": "연속 사진 편집 및 내보내기"
             }
           }
         },
@@ -170,6 +204,14 @@
             "zh-Hant": {
               "title": "試用 TimeLab",
               "description": "將照片製作成縮時影片"
+            },
+            "ja": {
+              "title": "TimeLab を試す",
+              "description": "写真からタイムラプス動画を作成"
+            },
+            "ko": {
+              "title": "TimeLab 사용해 보기",
+              "description": "사진으로 타임랩스 동영상 만들기"
             }
           }
         }
@@ -201,6 +243,16 @@
           "title": "專業級星軌攝影與創意效果",
           "shortDescription": "製作細節豐富的 RAW 星軌照片，呈現漸淡的尾跡與連續軌跡。",
           "fullDescription": "搭配 Intervalometer 與相容的相機應用程式，拍攝一長串夜空 RAW 照片。將照片系列匯入 Light Trails，合併照片、套用 Comet Mode 呈現創意漸淡尾跡、填補不需要的間隙，最後以 DNG 格式匯出成果，方便進一步編輯。"
+        },
+        "ja": {
+          "title": "クリエイティブな効果を加えたプロ品質の星の軌跡",
+          "shortDescription": "徐々に消える尾と途切れのない軌跡で、精細な RAW の星の軌跡写真を作成しましょう。",
+          "fullDescription": "Intervalometer と対応するカメラアプリを組み合わせ、夜空の RAW 写真を長時間にわたって連続撮影します。Light Trails に読み込んで写真を合成し、Comet Mode で徐々に消える軌跡を加え、不要な隙間を埋めます。完成した写真は DNG 形式で書き出して、さらに編集できます。"
+        },
+        "ko": {
+          "title": "창의적인 효과를 더한 전문가 수준의 별 궤적",
+          "shortDescription": "점차 사라지는 꼬리와 끊김 없는 궤적으로 섬세한 RAW 별 궤적 사진을 만들어 보세요.",
+          "fullDescription": "Intervalometer와 호환되는 카메라 앱을 함께 사용해 밤하늘의 RAW 사진을 오랜 시간 연속 촬영하세요. Light Trails로 가져와 사진을 합성하고, Comet Mode로 점차 사라지는 궤적 효과를 적용하고, 원치 않는 틈을 메우세요. 완성한 결과를 DNG 형식으로 내보내 추가로 편집할 수 있습니다."
         }
       },
       "images": [
@@ -236,6 +288,14 @@
             "zh-Hant": {
               "title": "試用 Intervalometer",
               "description": "搭配相容的相機應用程式，拍攝 RAW 照片系列"
+            },
+            "ja": {
+              "title": "Intervalometer を試す",
+              "description": "対応するカメラアプリと組み合わせて RAW 写真を連続撮影"
+            },
+            "ko": {
+              "title": "Intervalometer 사용해 보기",
+              "description": "호환되는 카메라 앱과 함께 RAW 사진 연속 촬영"
             }
           }
         },
@@ -260,6 +320,14 @@
             "zh-Hant": {
               "title": "試用 Light Trails",
               "description": "堆疊照片、套用 Comet Mode、填補間隙，並匯出為 DNG"
+            },
+            "ja": {
+              "title": "Light Trails を試す",
+              "description": "写真を重ね合わせ、Comet Mode を適用し、隙間を埋めて DNG 形式で書き出す"
+            },
+            "ko": {
+              "title": "Light Trails 사용해 보기",
+              "description": "사진을 겹치고 Comet Mode를 적용하며 틈을 메운 후 DNG로 내보내기"
             }
           }
         }
@@ -290,6 +358,16 @@
           "title": "專業級天文攝影",
           "shortDescription": "透過 RAW 堆疊，製作更清晰、雜訊更少的天文照片。",
           "fullDescription": "搭配 Intervalometer 與相容的相機應用程式，以一致的設定拍攝多張夜空 RAW 照片。將照片匯入 Compose，應用程式會對齊星點並堆疊照片，在保留細節的同時降低雜訊，產生更清晰的天文照片。"
+        },
+        "ja": {
+          "title": "プロ品質の天体写真",
+          "shortDescription": "RAW 写真のスタッキングで、ノイズの少ないクリアな天体写真を作成しましょう。",
+          "fullDescription": "Intervalometer と対応するカメラアプリを組み合わせ、同じ設定で夜空の RAW 写真を複数枚撮影します。Compose に読み込むと、星の位置を合わせて写真を重ね合わせ、細部を保ちながらノイズを低減します。よりクリアな天体写真に仕上がります。"
+        },
+        "ko": {
+          "title": "전문가 수준의 천체 사진",
+          "shortDescription": "RAW 사진 스태킹으로 노이즈가 적고 더 깨끗한 천체 사진을 만들어 보세요.",
+          "fullDescription": "Intervalometer와 호환되는 카메라 앱을 함께 사용해 동일한 설정으로 밤하늘의 RAW 사진을 여러 장 촬영하세요. Compose로 가져오면 별의 위치를 정렬하고 사진을 겹쳐 세부 묘사를 유지하면서 노이즈를 줄여 더 깨끗한 천체 사진을 만들 수 있습니다."
         }
       },
       "images": [
@@ -324,6 +402,14 @@
             "zh-Hant": {
               "title": "試用 Intervalometer",
               "description": "搭配相容的相機應用程式，拍攝多張 RAW 照片"
+            },
+            "ja": {
+              "title": "Intervalometer を試す",
+              "description": "対応するカメラアプリと組み合わせて RAW 写真を複数枚撮影"
+            },
+            "ko": {
+              "title": "Intervalometer 사용해 보기",
+              "description": "호환되는 카메라 앱과 함께 RAW 사진 여러 장 촬영"
             }
           }
         },
@@ -348,6 +434,14 @@
             "zh-Hant": {
               "title": "試用 Compose",
               "description": "對齊並堆疊照片以降低雜訊"
+            },
+            "ja": {
+              "title": "Compose を試す",
+              "description": "写真の位置を合わせて重ね合わせ、ノイズを低減"
+            },
+            "ko": {
+              "title": "Compose 사용해 보기",
+              "description": "사진을 정렬하고 겹쳐 노이즈 줄이기"
             }
           }
         }
@@ -378,6 +472,16 @@
           "title": "手持 RAW 長時間曝光",
           "shortDescription": "無需腳架，即可拍攝高品質的 RAW 長時間曝光照片。",
           "fullDescription": "使用 Motion ProCam 手持拍攝 RAW 長時間曝光照片。自動對齊與穩定功能可補償手部的細微晃動，讓您拍攝柔滑流水、移動雲朵、光軌及其他動態效果，同時保留後續編輯的彈性。"
+        },
+        "ja": {
+          "title": "手持ちで撮る RAW 長時間露光",
+          "shortDescription": "三脚を使わずに、高品質な RAW 長時間露光写真を撮影しましょう。",
+          "fullDescription": "Motion ProCam を使って、手持ちで RAW の長時間露光写真を撮影します。自動位置合わせと手ぶれ補正が小さな手の動きを補正するため、滑らかな水面、流れる雲、光の軌跡などの動きを表現でき、編集の自由度も保てます。"
+        },
+        "ko": {
+          "title": "손으로 들고 촬영하는 RAW 장노출",
+          "shortDescription": "삼각대 없이 고품질 RAW 장노출 사진을 촬영해 보세요.",
+          "fullDescription": "Motion ProCam으로 기기를 손에 들고 RAW 장노출 사진을 촬영하세요. 자동 정렬과 손떨림 보정 기능이 미세한 손의 움직임을 보정해 부드러운 물결, 움직이는 구름, 빛의 궤적 등 다양한 움직임 효과를 담을 수 있으며, 편집의 유연성도 유지됩니다."
         }
       },
       "images": [
@@ -411,6 +515,14 @@
             "zh-Hant": {
               "title": "試用 Motion ProCam",
               "description": "手持拍攝經穩定處理的 RAW 長時間曝光照片"
+            },
+            "ja": {
+              "title": "Motion ProCam を試す",
+              "description": "手ぶれを補正しながら手持ちで RAW 長時間露光写真を撮影"
+            },
+            "ko": {
+              "title": "Motion ProCam 사용해 보기",
+              "description": "손떨림 보정을 적용해 손으로 들고 RAW 장노출 촬영"
             }
           }
         }
@@ -441,6 +553,16 @@
           "title": "結合動態模糊的電影感縮時攝影",
           "shortDescription": "透過自然的動態模糊，製作更流暢、更具電影感的縮時影片。",
           "fullDescription": "搭配 Intervalometer 與相容的相機應用程式，拍攝一系列受控的照片。將照片匯入 TimeLab，並套用動態模糊算圖處理，以減少傳統縮時影片生硬、跳動的視覺效果，呈現更流暢的動作。"
+        },
+        "ja": {
+          "title": "モーションブラーで映画のようなタイムラプス",
+          "shortDescription": "自然なモーションブラーで、より滑らかで映画のようなタイムラプスを作成しましょう。",
+          "fullDescription": "Intervalometer と対応するカメラアプリを組み合わせ、撮影条件を調整して連続撮影します。写真を TimeLab に読み込み、モーションブラーを加えて動画を作成すると、従来のタイムラプスに見られるぎこちない動きを抑え、より滑らかに表現できます。"
+        },
+        "ko": {
+          "title": "모션 블러로 만드는 영화 같은 타임랩스",
+          "shortDescription": "자연스러운 모션 블러로 더 부드럽고 영화 같은 타임랩스를 만들어 보세요.",
+          "fullDescription": "Intervalometer와 호환되는 카메라 앱을 함께 사용해 촬영 조건을 조절하며 사진을 연속 촬영하세요. TimeLab으로 가져와 모션 블러 렌더링을 적용하면 일반적인 타임랩스에서 나타나는 거칠고 끊기는 듯한 움직임을 줄이고 더 부드러운 움직임을 만들 수 있습니다."
         }
       },
       "images": [
@@ -474,6 +596,14 @@
             "zh-Hant": {
               "title": "試用 Intervalometer",
               "description": "搭配相容的相機應用程式，以固定間隔拍攝照片"
+            },
+            "ja": {
+              "title": "Intervalometer を試す",
+              "description": "対応するカメラアプリと組み合わせて一定の間隔で撮影"
+            },
+            "ko": {
+              "title": "Intervalometer 사용해 보기",
+              "description": "호환되는 카메라 앱과 함께 일정한 간격으로 촬영"
             }
           }
         },
@@ -498,6 +628,14 @@
             "zh-Hant": {
               "title": "試用 TimeLab",
               "description": "以動態模糊效果製作照片系列影片"
+            },
+            "ja": {
+              "title": "TimeLab を試す",
+              "description": "連続写真にモーションブラーを加えて動画を作成"
+            },
+            "ko": {
+              "title": "TimeLab 사용해 보기",
+              "description": "연속 사진에 모션 블러를 적용해 동영상 만들기"
             }
           }
         }
