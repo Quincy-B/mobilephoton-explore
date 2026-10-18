@@ -26,6 +26,10 @@
     "ko": {
       "title": "새로운 가능성을 발견하세요",
       "subtitle": "MobilePhoton 앱을 활용한 창의적인 사진 촬영 아이디어."
+    },
+    "fr": {
+      "title": "Explorez les possibilités",
+      "subtitle": "Des idées créatives de photographie avec les applications MobilePhoton."
     }
   },
   "apps": [
@@ -108,6 +112,11 @@
           "title": "전문가 수준의 은하수 타임랩스",
           "shortDescription": "TimeLab에서 RAW 연속 사진을 편집해 섬세한 은하수 타임랩스를 만들어 보세요.",
           "fullDescription": "Intervalometer와 호환되는 카메라 앱을 함께 사용해 일정한 간격으로 밤하늘의 RAW 사진을 연속 촬영하세요. 연속 사진을 TimeLab으로 가져와 편집하고 고품질 은하수 타임랩스 동영상을 만드세요."
+        },
+        "fr": {
+          "title": "Timelapse de la Voie lactée de qualité professionnelle",
+          "shortDescription": "Créez un timelapse détaillé de la Voie lactée en retouchant une séquence de photos RAW dans TimeLab.",
+          "fullDescription": "Associez Intervalometer à une application photo compatible pour prendre une séquence de photos RAW du ciel nocturne à intervalles réguliers. Importez la séquence dans TimeLab pour retoucher les images et créer une vidéo timelapse de la Voie lactée de haute qualité."
         }
       },
       "images": [],
@@ -147,6 +156,10 @@
             "ko": {
               "title": "Intervalometer 사용해 보기",
               "description": "호환되는 카메라 앱과 함께 RAW 사진 자동 촬영"
+            },
+            "fr": {
+              "title": "Essayer Intervalometer",
+              "description": "Associez une application photo compatible pour prendre automatiquement des photos RAW"
             }
           }
         },
@@ -179,6 +192,10 @@
             "ko": {
               "title": "TimeLab 사용해 보기",
               "description": "연속 사진을 편집하고 타임랩스 동영상 만들기"
+            },
+            "fr": {
+              "title": "Essayer TimeLab",
+              "description": "Retouchez la séquence de photos et créez une vidéo timelapse"
             }
           }
         }
@@ -220,6 +237,11 @@
           "title": "창의적인 효과를 더한 전문가 수준의 별 궤적",
           "shortDescription": "점차 사라지는 꼬리와 끊김 없는 궤적으로 섬세한 RAW 별 궤적 사진을 만들어 보세요.",
           "fullDescription": "Intervalometer와 호환되는 카메라 앱을 함께 사용해 밤하늘의 RAW 사진을 오랜 시간 연속 촬영하세요. Light Trails로 가져와 사진을 합성하고, Comet Mode로 점차 사라지는 궤적 효과를 적용하고, 원치 않는 틈을 메우세요. 완성한 결과를 DNG 형식으로 내보내 추가로 편집할 수 있습니다."
+        },
+        "fr": {
+          "title": "Filés d’étoiles de qualité professionnelle avec effets créatifs",
+          "shortDescription": "Créez des filés d’étoiles détaillés en RAW, avec des traînées qui s’estompent et des trajectoires continues.",
+          "fullDescription": "Associez Intervalometer à une application photo compatible pour prendre une longue séquence de photos RAW du ciel nocturne. Importez la séquence dans Light Trails pour combiner les images, appliquer Comet Mode afin de créer des traînées qui s’estompent, combler les espaces indésirables et exporter le résultat au format DNG pour poursuivre la retouche."
         }
       },
       "images": [
@@ -263,6 +285,10 @@
             "ko": {
               "title": "Intervalometer 사용해 보기",
               "description": "호환되는 카메라 앱과 함께 RAW 사진 연속 촬영"
+            },
+            "fr": {
+              "title": "Essayer Intervalometer",
+              "description": "Associez une application photo compatible pour prendre la séquence de photos RAW"
             }
           }
         },
@@ -295,6 +321,10 @@
             "ko": {
               "title": "Light Trails 사용해 보기",
               "description": "사진을 겹치고 Comet Mode를 적용하며 틈을 메운 후 DNG로 내보내기"
+            },
+            "fr": {
+              "title": "Essayer Light Trails",
+              "description": "Empilez les images, appliquez Comet Mode, comblez les espaces et exportez au format DNG"
             }
           }
         }
@@ -335,6 +365,11 @@
           "title": "전문가 수준의 천체 사진",
           "shortDescription": "RAW 사진 스태킹으로 노이즈가 적고 더 깨끗한 천체 사진을 만들어 보세요.",
           "fullDescription": "Intervalometer와 호환되는 카메라 앱을 함께 사용해 동일한 설정으로 밤하늘의 RAW 사진을 여러 장 촬영하세요. Compose로 가져오면 별의 위치를 정렬하고 사진을 겹쳐 세부 묘사를 유지하면서 노이즈를 줄여 더 깨끗한 천체 사진을 만들 수 있습니다."
+        },
+        "fr": {
+          "title": "Astrophotographie de qualité professionnelle",
+          "shortDescription": "Obtenez des images d’astrophotographie plus nettes et moins bruitées grâce à l’empilement de photos RAW.",
+          "fullDescription": "Associez Intervalometer à une application photo compatible pour prendre plusieurs photos RAW du ciel nocturne avec des réglages constants. Importez-les dans Compose, qui aligne les étoiles et empile les images pour réduire le bruit tout en préservant les détails, afin d’obtenir une image d’astrophotographie plus nette."
         }
       },
       "images": [
@@ -377,6 +412,10 @@
             "ko": {
               "title": "Intervalometer 사용해 보기",
               "description": "호환되는 카메라 앱과 함께 RAW 사진 여러 장 촬영"
+            },
+            "fr": {
+              "title": "Essayer Intervalometer",
+              "description": "Associez une application photo compatible pour prendre plusieurs photos RAW"
             }
           }
         },
@@ -409,6 +448,10 @@
             "ko": {
               "title": "Compose 사용해 보기",
               "description": "사진을 정렬하고 겹쳐 노이즈 줄이기"
+            },
+            "fr": {
+              "title": "Essayer Compose",
+              "description": "Alignez et empilez les images pour réduire le bruit"
             }
           }
         }
@@ -449,6 +492,11 @@
           "title": "손으로 들고 촬영하는 RAW 장노출",
           "shortDescription": "삼각대 없이 고품질 RAW 장노출 사진을 촬영해 보세요.",
           "fullDescription": "Motion ProCam으로 기기를 손에 들고 RAW 장노출 사진을 촬영하세요. 자동 정렬과 손떨림 보정 기능이 미세한 손의 움직임을 보정해 부드러운 물결, 움직이는 구름, 빛의 궤적 등 다양한 움직임 효과를 담을 수 있으며, 편집의 유연성도 유지됩니다."
+        },
+        "fr": {
+          "title": "Pose longue en RAW à main levée",
+          "shortDescription": "Prenez des photos de haute qualité en pose longue au format RAW sans trépied.",
+          "fullDescription": "Utilisez Motion ProCam pour prendre des photos en pose longue au format RAW à main levée. L’alignement et la stabilisation automatiques compensent les petits mouvements de la main, ce qui permet de photographier une eau soyeuse, des nuages en mouvement, des traînées lumineuses et d’autres effets de mouvement tout en conservant une grande souplesse de retouche."
         }
       },
       "images": [
@@ -490,6 +538,10 @@
             "ko": {
               "title": "Motion ProCam 사용해 보기",
               "description": "손떨림 보정을 적용해 손으로 들고 RAW 장노출 촬영"
+            },
+            "fr": {
+              "title": "Essayer Motion ProCam",
+              "description": "Prenez des photos stabilisées en pose longue au format RAW à main levée"
             }
           }
         }
@@ -530,6 +582,11 @@
           "title": "모션 블러로 만드는 영화 같은 타임랩스",
           "shortDescription": "자연스러운 모션 블러로 더 부드럽고 영화 같은 타임랩스를 만들어 보세요.",
           "fullDescription": "Intervalometer와 호환되는 카메라 앱을 함께 사용해 촬영 조건을 조절하며 사진을 연속 촬영하세요. TimeLab으로 가져와 모션 블러 렌더링을 적용하면 일반적인 타임랩스에서 나타나는 거칠고 끊기는 듯한 움직임을 줄이고 더 부드러운 움직임을 만들 수 있습니다."
+        },
+        "fr": {
+          "title": "Timelapse cinématographique avec flou de mouvement",
+          "shortDescription": "Créez des timelapses plus fluides et cinématographiques avec un flou de mouvement naturel.",
+          "fullDescription": "Associez Intervalometer à une application photo compatible pour prendre une séquence de photos avec des réglages maîtrisés. Importez les images dans TimeLab et appliquez le rendu avec flou de mouvement pour atténuer l’aspect saccadé des timelapses classiques et obtenir des mouvements plus fluides."
         }
       },
       "images": [
@@ -571,6 +628,10 @@
             "ko": {
               "title": "Intervalometer 사용해 보기",
               "description": "호환되는 카메라 앱과 함께 일정한 간격으로 촬영"
+            },
+            "fr": {
+              "title": "Essayer Intervalometer",
+              "description": "Associez une application photo compatible pour prendre des photos à intervalles réguliers"
             }
           }
         },
@@ -603,6 +664,10 @@
             "ko": {
               "title": "TimeLab 사용해 보기",
               "description": "연속 사진에 모션 블러를 적용해 동영상 만들기"
+            },
+            "fr": {
+              "title": "Essayer TimeLab",
+              "description": "Créez la vidéo à partir de la séquence avec un flou de mouvement"
             }
           }
         }
